@@ -13,7 +13,9 @@ Questions Asked (KPIs)
 -Which city punches above its weight by average cheque size?
 
 Dashboard Image <a href="https://github.com/NaveenranaBA/Excel-Dashboard-Startup-Funding-Data/blob/main/Excel%20Dashboard%20Image%20(%20Startup%20Data%20Dashboard).png">View Dashboard</a>
-Keyb Insights <a href="https://github.com/NaveenranaBA/Excel-Dashboard-Startup-Funding-Data/blob/main/Startup%20Funding%20Data%20Dashboard%E2%80%94%20Key%20Insights%202020%E2%80%932025.pdf">View Key Insights</a>
+
+Key Insights <a href="https://github.com/NaveenranaBA/Excel-Dashboard-Startup-Funding-Data/blob/main/Startup%20Funding%20Data%20Dashboard%E2%80%94%20Key%20Insights%202020%E2%80%932025.pdf">View Key Insights</a>
+
 Dataset <a href="https://github.com/NaveenranaBA/Excel-Dashboard-Startup-Funding-Data/blob/main/Startup%20Funding%20Data%20Dashboard.xlsx">View Dataset</a>
 
 
